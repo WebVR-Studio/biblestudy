@@ -19,6 +19,8 @@
 
 <hr>
 
-## 生命讀經
-### [第五十三篇　國度的要求](http://www.life-study1984.org/webdata/read/read.php?no=40-53)
-### [第五十四篇　國度的賞賜與國度賞賜的比喻](http://www.life-study1984.org/webdata/read/read.php?no=40-54)
+### 生命讀經
+<p>
+<a href="http://www.life-study1984.org/webdata/read/read.php?no=40-53">第五十三篇　國度的要求</a>, 
+<a href="http://www.life-study1984.org/webdata/read/read.php?no=40-54">第五十四篇　國度的賞賜與國度賞賜的比喻</a>
+</p>
